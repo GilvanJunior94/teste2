@@ -70,7 +70,7 @@ body {
 
 #to-do-list li {
   font-size: 1.4rem;
-  display: block;
+  display: flex;
   justify-content: space-between;
   align-items: center; /* Centralizado verticalmente */
 }
